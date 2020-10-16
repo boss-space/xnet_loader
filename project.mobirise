@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "xnet",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -38,10 +38,10 @@
     "versionPublish": "5.1.4"
   },
   "pages": {
-    "page1.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "инфо",
         "meta_descr": "загрузчик!",
         "header_custom": "",
         "footer_custom": "",
